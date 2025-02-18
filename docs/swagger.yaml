@@ -81,7 +81,7 @@ paths:
             $ref: '#/definitions/apperror.ReqError'
       summary: Получить список задач
       tags:
-      - tasks
+      - Tasks
     post:
       consumes:
       - application/json
@@ -139,7 +139,7 @@ paths:
             $ref: '#/definitions/apperror.ReqError'
       summary: Удалить задачу
       tags:
-      - tasks
+      - Tasks
     get:
       consumes:
       - application/json
@@ -167,7 +167,7 @@ paths:
             $ref: '#/definitions/apperror.ReqError'
       summary: Получить задачу по ID
       tags:
-      - tasks
+      - Tasks
     put:
       consumes:
       - application/json
@@ -201,5 +201,5 @@ paths:
             $ref: '#/definitions/apperror.ReqError'
       summary: Обновить задачу
       tags:
-      - tasks
+      - Tasks
 swagger: "2.0"
