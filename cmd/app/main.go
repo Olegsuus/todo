@@ -23,7 +23,6 @@ import (
 
 // @host      localhost:5555
 // @BasePath
-
 func main() {
 	cfg := config.MustConfig()
 
