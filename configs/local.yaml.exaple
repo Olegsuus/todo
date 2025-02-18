@@ -1,0 +1,8 @@
+env: "local"
+
+server:
+  port:
+
+log:
+  log_file_path:
+
