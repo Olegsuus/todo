@@ -11,7 +11,7 @@ import (
 
 // @Summary     Удалить задачу
 // @Description Удаляет задачу по указанному ID
-// @Tags       tasks
+// @Tags       Tasks
 // @Accept     json
 // @Produce    json
 // @Param      id    path int true "ID задачи"

@@ -10,7 +10,7 @@ import (
 
 // @Summary   Получить задачу по ID
 // @Description Возвращает задачу по её ID
-// @Tags   tasks
+// @Tags   Tasks
 // @Accept  json
 // @Produce  json
 // @Param    id path int true "ID задачи"

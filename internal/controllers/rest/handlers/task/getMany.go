@@ -9,7 +9,7 @@ import (
 
 // @Summary    Получить список задач
 // @Description Возвращает список задач с поддержкой пагинации и сортировки
-// @Tags      tasks
+// @Tags      Tasks
 // @Accept    json
 // @Produce   json
 // @Param     limit   query int false "Лимит"

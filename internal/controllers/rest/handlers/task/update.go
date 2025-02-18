@@ -11,7 +11,7 @@ import (
 
 // @Summary    Обновить задачу
 // @Description Обновляет данные существующей задачи
-// @Tags       tasks
+// @Tags       Tasks
 // @Accept     json
 // @Produce    json
 // @Param      id path int true "ID задачи"
